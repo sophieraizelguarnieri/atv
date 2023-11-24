@@ -1,0 +1,48 @@
+body{
+    background-color: pink;
+}
+h1{
+    font-size: 30px;
+    color: hsl(300, 51%, 65%);
+    text-align: center;
+
+}
+
+p{
+    font-size: 15px;
+    text-align: center;
+    color: hsl(300, 51%, 65%);
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    margin-left: 50px;
+    border: 10px solid hsl(300, 51%, 65%);
+    
+}
+
+.cabecalho{
+    background-color: azure;
+    display: flex;
+}
+
+.logoimg{
+    width: 300px;
+    margin-left: 150px;
+}
+
+.listacabecalho{
+    display: flex;
+    margin-left: 500px;
+    margin-top: 125px;
+}
+
+.itemlistacabecalho{
+    list-style: none;
+    text-transform: uppercase;
+    color: palevioletred;
+    font-size: 30px;
+    padding-left: 35px;
+}
